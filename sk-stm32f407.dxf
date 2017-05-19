@@ -1,0 +1,18708 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1014
+  9
+$ACADMAINTVER
+ 70
+         0
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+207.2096
+ 20
+156.986223
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+0.0
+ 20
+0.0
+  9
+$ORTHOMODE
+ 70
+         0
+  9
+$REGENMODE
+ 70
+         1
+  9
+$FILLMODE
+ 70
+         1
+  9
+$QTEXTMODE
+ 70
+         0
+  9
+$MIRRTEXT
+ 70
+         1
+  9
+$DRAGMODE
+ 70
+         2
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$OSMODE
+ 70
+         0
+  9
+$ATTMODE
+ 70
+         1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+CONTINUOUS
+  9
+$CECOLOR
+ 62
+       256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DELOBJ
+ 70
+         1
+  9
+$DISPSILH
+ 70
+         0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+         0
+  9
+$DIMLIM
+ 70
+         0
+  9
+$DIMTIH
+ 70
+         1
+  9
+$DIMTOH
+ 70
+         1
+  9
+$DIMSE1
+ 70
+         0
+  9
+$DIMSE2
+ 70
+         0
+  9
+$DIMTAD
+ 70
+         0
+  9
+$DIMZIN
+ 70
+         0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+         1
+  9
+$DIMSHO
+ 70
+         1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+         0
+  9
+$DIMALTD
+ 70
+         2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+         0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+         0
+  9
+$DIMSOXD
+ 70
+         0
+  9
+$DIMSAH
+ 70
+         0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+STANDARD
+  9
+$DIMCLRD
+ 70
+         0
+  9
+$DIMCLRE
+ 70
+         0
+  9
+$DIMCLRT
+ 70
+         0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+         0
+  9
+$DIMSD1
+ 70
+         0
+  9
+$DIMSD2
+ 70
+         0
+  9
+$DIMTOLJ
+ 70
+         1
+  9
+$DIMTZIN
+ 70
+         0
+  9
+$DIMALTZ
+ 70
+         0
+  9
+$DIMALTTZ
+ 70
+         0
+  9
+$DIMFIT
+ 70
+         3
+  9
+$DIMUPT
+ 70
+         0
+  9
+$DIMUNIT
+ 70
+         2
+  9
+$DIMDEC
+ 70
+         4
+  9
+$DIMTDEC
+ 70
+         4
+  9
+$DIMALTU
+ 70
+         2
+  9
+$DIMALTTD
+ 70
+         2
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+ 70
+         0
+  9
+$LUNITS
+ 70
+         2
+  9
+$LUPREC
+ 70
+         4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.0
+  9
+$AUNITS
+ 70
+         0
+  9
+$AUPREC
+ 70
+         0
+  9
+$MENU
+  1
+acad
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+         0
+  9
+$BLIPMODE
+ 70
+         1
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+         0
+  9
+$TDCREATE
+ 40
+2457114.543668982
+  9
+$TDUPDATE
+ 40
+0.000000000
+  9
+$TDINDWG
+ 40
+0.0000000000
+  9
+$TDUSRTIMER
+ 40
+0.0000000000
+  9
+$USRTIMER
+ 70
+         1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+         0
+  9
+$PDMODE
+ 70
+         0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$COORDS
+ 70
+         0
+  9
+$SPLFRAME
+ 70
+         0
+  9
+$SPLINETYPE
+ 70
+         6
+  9
+$SPLINESEGS
+ 70
+         8
+  9
+$ATTDIA
+ 70
+         0
+  9
+$ATTREQ
+ 70
+         1
+  9
+$HANDLING
+ 70
+         1
+  9
+$HANDSEED
+  5
+1FB
+  9
+$SURFTAB1
+ 70
+         6
+  9
+$SURFTAB2
+ 70
+         6
+  9
+$SURFTYPE
+ 70
+         6
+  9
+$SURFU
+ 70
+         6
+  9
+$SURFV
+ 70
+         6
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+        -3
+  9
+$USERI2
+ 70
+         0
+  9
+$USERI3
+ 70
+         0
+  9
+$USERI4
+ 70
+         0
+  9
+$USERI5
+ 70
+         0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+         1
+  9
+$SHADEDGE
+ 70
+         3
+  9
+$SHADEDIF
+ 70
+        70
+  9
+$TILEMODE
+ 70
+         1
+  9
+$MAXACTVP
+ 70
+        16
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+         0
+  9
+$PEXTMIN
+ 10
+1.0000000000E+20
+ 20
+1.0000000000E+20
+ 30
+1.0000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.0000000000E+20
+ 20
+-1.0000000000E+20
+ 30
+-1.0000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+         0
+  9
+$VISRETAIN
+ 70
+         0
+  9
+$PLINEGEN
+ 70
+         1
+  9
+$PSLTSCALE
+ 70
+         0
+  9
+$TREEDEPTH
+ 70
+      3020
+  9
+$PICKSTYLE
+ 70
+         1
+  9
+$CMLSTYLE
+  2
+STANDARD
+  9
+$CMLJUST
+ 70
+         0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$PROXYGRAPHICS
+ 70
+         0
+  9
+$MEASUREMENT
+ 70
+         0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+LWPOLYLINE
+  2
+AcDbPolyline
+  3
+"AutoCAD"
+ 90
+        0
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+ 90
+      127
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+OLE2FRAME
+  2
+AcDbOle2Frame
+  3
+""
+ 90
+        0
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+HATCH
+  2
+AcDbHatch
+  3
+"ACAD_SEDONA"
+ 90
+        0
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+"AutoCAD"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ISM
+ 90
+        1
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+IDBUFFER
+  2
+AcDbIdBuffer
+  3
+"Acad"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+SPATIAL_FILTER
+  2
+AcDbSpatialFilter
+  3
+"Acad"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+XRECORD
+  2
+AcDbXrecord
+  3
+"<Built In>"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+SORTENTSTABLE
+  2
+AcDbSortentsTable
+  3
+"AutoCAD"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+LAYER_INDEX
+  2
+AcDbLayerIndex
+  3
+"Acad"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+SPATIAL_INDEX
+  2
+AcDbSpatialIndex
+  3
+"Acad"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+OBJECT_PTR
+  2
+CAseDLPNTableRecord
+  3
+"ASE-LPNTableRecord"
+ 90
+        1
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+"AutoCAD 2000"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+PLOTSETTINGS
+  2
+AcDbPlotSettings
+  3
+"AutoCAD 2000"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+"AutoCAD 2000"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+"AutoCAD 2000"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+VBA_PROJECT
+  2
+AcDbVbaProject
+  3
+"acadvba"
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+WIPEOUT
+  2
+AcDbWipeout
+  3
+WipeOut|AutoCAD Express Tool|expresstools@autodesk.com
+ 90
+      127
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+WIPEOUTVARIABLES
+  2
+AcDbWipeoutVariables
+  3
+WipeOut|AutoCAD Express Tool|expresstools@autodesk.com
+ 90
+        0
+280
+         0
+281
+         0
+  0
+CLASS
+  1
+RTEXT
+  2
+RText
+  3
+RText|AutoCAD Express Tool|expresstools@autodesk.com
+ 90
+        0
+280
+         0
+281
+         1
+  0
+CLASS
+  1
+ARCALIGNEDTEXT
+  2
+AcDbArcAlignedText
+  3
+ATEXT|AutoCAD Express Tool|expresstools@autodesk.com
+ 90
+        0
+280
+         0
+281
+         1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+7
+100
+AcDbSymbolTable
+ 70
+         1
+  0
+VPORT
+  5
+15
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+         0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+6.591288
+ 22
+4.579184
+ 13
+0.0
+ 23
+0.0
+ 14
+1.0
+ 24
+1.0
+ 15
+0.0
+ 25
+0.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+9.158369
+ 41
+0.688564
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+         0
+ 72
+       100
+ 73
+         1
+ 74
+         1
+ 75
+         0
+ 76
+         0
+ 77
+         0
+ 78
+         0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+4
+100
+AcDbSymbolTable
+ 70
+         3
+  0
+LTYPE
+  5
+11
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYBLOCK
+ 70
+        64
+  3
+
+ 72
+        65
+ 73
+         0
+ 40
+0.0
+  0
+LTYPE
+  5
+12
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYLAYER
+ 70
+        64
+  3
+
+ 72
+        65
+ 73
+         0
+ 40
+0.0
+  0
+LTYPE
+  5
+13
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CONTINUOUS
+ 70
+        64
+  3
+Solid line
+ 72
+        65
+ 73
+         0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+100
+AcDbSymbolTable
+ 70
+         6
+  0
+LAYER
+  5
+14
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+         0
+ 62
+         7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+24
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ASSEMBLY_OUTLINES_TOP
+ 70
+         0
+ 62
+       102
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+25
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ASSEMBLY_REF_DES_TOP
+ 70
+         0
+ 62
+       119
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+26
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+BOARD_OUTLINE
+ 70
+         0
+ 62
+        10
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+27
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+MOUNTING_HOLES_LAYER_TOP
+ 70
+         0
+ 62
+        42
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+28
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+PART_HOLES_LAYER_TOP
+ 70
+         0
+ 62
+        30
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+100
+AcDbSymbolTable
+ 70
+         3
+  0
+STYLE
+  5
+17
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+ 70
+         0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+         0
+ 42
+0.0
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+7A
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+VERIBEST_GERBER_1
+ 70
+         0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+         0
+ 42
+0.0
+  3
+
+  4
+
+  0
+STYLE
+  5
+D9
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+GOST_TYPE_B
+ 70
+         0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+         0
+ 42
+0.0
+  3
+gost.ttf
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+5
+100
+AcDbSymbolTable
+ 70
+         0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+100
+AcDbSymbolTable
+ 70
+         0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+8
+100
+AcDbSymbolTable
+ 70
+         1
+  0
+APPID
+  5
+16
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+         0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+9
+100
+AcDbSymbolTable
+ 70
+         1
+  0
+DIMSTYLE
+105
+18
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+ 70
+         0
+  3
+
+  4
+
+  5
+
+  6
+
+  7
+
+ 40
+1.0
+ 41
+0.18
+ 42
+0.0625
+ 43
+0.38
+ 44
+0.18
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 71
+         0
+ 72
+         0
+ 73
+         1
+ 74
+         1
+ 75
+         0
+ 76
+         0
+ 77
+         0
+ 78
+         0
+140
+0.18
+141
+0.09
+142
+0.0
+143
+25.4
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.09
+170
+         0
+171
+         2
+172
+         0
+173
+         0
+174
+         0
+175
+         0
+176
+         0
+177
+         0
+178
+         0
+270
+         2
+271
+         4
+272
+         4
+273
+         2
+274
+         2
+275
+         0
+280
+         0
+281
+         0
+282
+         0
+283
+         1
+284
+         0
+285
+         0
+286
+         0
+287
+         3
+288
+         0
+340
+17
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+100
+AcDbSymbolTable
+ 70
+         0
+  0
+BLOCK_RECORD
+  5
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*MODEL_SPACE
+  0
+BLOCK_RECORD
+  5
+B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*PAPER_SPACE
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*MODEL_SPACE
+ 70
+         0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*MODEL_SPACE
+  1
+
+  0
+ENDBLK
+  5
+E
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+F
+100
+AcDbEntity
+ 67
+         1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*PAPER_SPACE
+ 70
+         0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*PAPER_SPACE
+  1
+
+  0
+ENDBLK
+  5
+10
+100
+AcDbEntity
+ 67
+         1
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+29
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+160.3
+ 20
+93.2
+ 10
+160.3
+ 20
+97.2
+ 10
+171.6
+ 20
+97.2
+ 10
+171.6
+ 20
+93.2
+  0
+LWPOLYLINE
+  5
+2A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+153.4
+ 20
+153.708
+ 10
+153.4
+ 20
+156.884623
+  0
+LWPOLYLINE
+  5
+2B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+155.4
+ 20
+141.708
+ 10
+155.4
+ 20
+156.884623
+  0
+LWPOLYLINE
+  5
+2C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+152.8285
+ 20
+156.376623
+ 10
+150.5425
+ 20
+156.376623
+  0
+LWPOLYLINE
+  5
+2D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+155.9715
+ 20
+156.376623
+ 10
+158.2575
+ 20
+156.376623
+  0
+LWPOLYLINE
+  5
+2E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+153.4
+ 20
+156.376623
+ 10
+152.257
+ 20
+155.805124
+ 10
+152.257
+ 20
+156.948123
+  0
+HATCH
+  5
+2F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+153.40000000000001
+ 20
+156.376623
+ 10
+152.25700000000001
+ 20
+155.80512400000001
+ 10
+152.25700000000001
+ 20
+156.94812300000001
+ 97
+        1
+330
+2E
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+30
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+155.4
+ 20
+156.376623
+ 10
+156.543
+ 20
+156.948123
+ 10
+156.543
+ 20
+155.805123
+  0
+HATCH
+  5
+31
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+155.40000000000001
+ 20
+156.376623
+ 10
+156.54300000000001
+ 20
+156.94812300000001
+ 10
+156.54300000000001
+ 20
+155.80512300000001
+ 97
+        1
+330
+30
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+32
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+152.892
+ 20
+153.2
+ 10
+150.514115
+ 20
+153.2
+  0
+LWPOLYLINE
+  5
+33
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+154.892
+ 20
+141.2
+ 10
+150.514115
+ 20
+141.2
+  0
+LWPOLYLINE
+  5
+34
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+151.022115
+ 20
+152.6285
+ 10
+151.022115
+ 20
+149.879255
+  0
+LWPOLYLINE
+  5
+35
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+151.022115
+ 20
+144.520745
+ 10
+151.022115
+ 20
+141.7715
+  0
+LWPOLYLINE
+  5
+36
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+151.022115
+ 20
+153.2
+ 10
+151.593614
+ 20
+152.057
+ 10
+150.450615
+ 20
+152.057001
+  0
+HATCH
+  5
+37
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+151.02211500000001
+ 20
+153.19999999999999
+ 10
+151.593614
+ 20
+152.05699999999999
+ 10
+150.450615
+ 20
+152.05700100000001
+ 97
+        1
+330
+36
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+38
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+151.022115
+ 20
+141.2
+ 10
+150.450615
+ 20
+142.343
+ 10
+151.593615
+ 20
+142.343
+  0
+HATCH
+  5
+39
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+151.02211500000001
+ 20
+141.19999999999999
+ 10
+150.450615
+ 20
+142.34299999999999
+ 10
+151.593615
+ 20
+142.34299999999999
+ 97
+        1
+330
+38
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+3A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+153.4
+ 20
+91.192
+ 10
+153.4
+ 20
+86.292
+  0
+LWPOLYLINE
+  5
+3B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.4
+ 20
+91.192
+ 10
+199.4
+ 20
+86.292
+  0
+LWPOLYLINE
+  5
+3C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+153.9715
+ 20
+86.8
+ 10
+173.647402
+ 20
+86.8
+  0
+LWPOLYLINE
+  5
+3D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+179.152598
+ 20
+86.8
+ 10
+198.8285
+ 20
+86.8
+  0
+LWPOLYLINE
+  5
+3E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+153.4
+ 20
+86.8
+ 10
+154.543
+ 20
+87.3715
+ 10
+154.543
+ 20
+86.2285
+  0
+HATCH
+  5
+3F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+153.40000000000001
+ 20
+86.799999999999997
+ 10
+154.54300000000001
+ 20
+87.371499999999997
+ 10
+154.54300000000001
+ 20
+86.228499999999997
+ 97
+        1
+330
+3E
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+40
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+199.4
+ 20
+86.8
+ 10
+198.257
+ 20
+86.228501
+ 10
+198.257
+ 20
+87.3715
+  0
+HATCH
+  5
+41
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+199.40000000000001
+ 20
+86.799999999999997
+ 10
+198.25700000000001
+ 20
+86.228500999999994
+ 10
+198.25700000000001
+ 20
+87.371499999999997
+ 97
+        1
+330
+40
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+42
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.908
+ 20
+153.2
+ 10
+207.108
+ 20
+153.2
+  0
+LWPOLYLINE
+  5
+43
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.908
+ 20
+91.7
+ 10
+207.108
+ 20
+91.7
+  0
+LWPOLYLINE
+  5
+44
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+206.6
+ 20
+152.6285
+ 10
+206.6
+ 20
+126.23606
+  0
+LWPOLYLINE
+  5
+45
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+206.6
+ 20
+118.66394
+ 10
+206.6
+ 20
+92.2715
+  0
+LWPOLYLINE
+  5
+46
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+206.6
+ 20
+153.2
+ 10
+207.171499
+ 20
+152.057
+ 10
+206.0285
+ 20
+152.057001
+  0
+HATCH
+  5
+47
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+206.59999999999999
+ 20
+153.19999999999999
+ 10
+207.17149900000001
+ 20
+152.05699999999999
+ 10
+206.02850000000001
+ 20
+152.05700100000001
+ 97
+        1
+330
+46
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+48
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+206.6
+ 20
+91.7
+ 10
+206.0285
+ 20
+92.843
+ 10
+207.1715
+ 20
+92.843
+  0
+HATCH
+  5
+49
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+206.59999999999999
+ 20
+91.700000000000003
+ 10
+206.02850000000001
+ 20
+92.843000000000004
+ 10
+207.17150000000001
+ 20
+92.843000000000004
+ 97
+        1
+330
+48
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+4A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+153.4
+ 20
+91.192
+ 10
+153.4
+ 20
+87.792
+  0
+LWPOLYLINE
+  5
+4B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+155.4
+ 20
+93.192
+ 10
+155.4
+ 20
+87.792
+  0
+LWPOLYLINE
+  5
+4C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+152.8285
+ 20
+88.3
+ 10
+150.5425
+ 20
+88.3
+  0
+LWPOLYLINE
+  5
+4D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+155.9715
+ 20
+88.3
+ 10
+158.2575
+ 20
+88.3
+  0
+LWPOLYLINE
+  5
+4E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+153.4
+ 20
+88.3
+ 10
+152.257
+ 20
+87.728501
+ 10
+152.257
+ 20
+88.8715
+  0
+HATCH
+  5
+4F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+153.40000000000001
+ 20
+88.299999999999997
+ 10
+152.25700000000001
+ 20
+87.728500999999994
+ 10
+152.25700000000001
+ 20
+88.871499999999997
+ 97
+        1
+330
+4E
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+50
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+155.4
+ 20
+88.3
+ 10
+156.543
+ 20
+88.8715
+ 10
+156.543
+ 20
+87.7285
+  0
+HATCH
+  5
+51
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+155.40000000000001
+ 20
+88.299999999999997
+ 10
+156.54300000000001
+ 20
+88.871499999999997
+ 10
+156.54300000000001
+ 20
+87.728499999999997
+ 97
+        1
+330
+50
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+52
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+154.892
+ 20
+93.7
+ 10
+147.492
+ 20
+93.7
+  0
+LWPOLYLINE
+  5
+53
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+152.892
+ 20
+91.7
+ 10
+147.492
+ 20
+91.7
+  0
+LWPOLYLINE
+  5
+54
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+148.0
+ 20
+94.2715
+ 10
+148.0
+ 20
+96.5575
+  0
+LWPOLYLINE
+  5
+55
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+148.0
+ 20
+91.1285
+ 10
+148.0
+ 20
+88.8425
+  0
+LWPOLYLINE
+  5
+56
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+148.0
+ 20
+93.7
+ 10
+147.4285
+ 20
+94.843
+ 10
+148.5715
+ 20
+94.843
+  0
+HATCH
+  5
+57
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+148.0
+ 20
+93.700000000000003
+ 10
+147.42850000000001
+ 20
+94.843000000000004
+ 10
+148.57149999999999
+ 20
+94.843000000000004
+ 97
+        1
+330
+56
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+58
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+148.0
+ 20
+91.7
+ 10
+148.571499
+ 20
+90.557
+ 10
+147.4285
+ 20
+90.557001
+  0
+HATCH
+  5
+59
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+148.0
+ 20
+91.700000000000003
+ 10
+148.57149899999999
+ 20
+90.557000000000002
+ 10
+147.42850000000001
+ 20
+90.557001
+ 97
+        1
+330
+58
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+5A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+196.2
+ 20
+110.692
+ 10
+196.2
+ 20
+89.092
+  0
+LWPOLYLINE
+  5
+5B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.4
+ 20
+91.192
+ 10
+199.4
+ 20
+89.092
+  0
+LWPOLYLINE
+  5
+5C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+195.6285
+ 20
+89.6
+ 10
+193.3425
+ 20
+89.6
+  0
+LWPOLYLINE
+  5
+5D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.9715
+ 20
+89.6
+ 10
+202.2575
+ 20
+89.6
+  0
+LWPOLYLINE
+  5
+5E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+196.2
+ 20
+89.6
+ 10
+195.057
+ 20
+89.028501
+ 10
+195.057
+ 20
+90.1715
+  0
+HATCH
+  5
+5F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+196.19999999999999
+ 20
+89.599999999999994
+ 10
+195.05699999999999
+ 20
+89.028501000000006
+ 10
+195.05699999999999
+ 20
+90.171499999999995
+ 97
+        1
+330
+5E
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+60
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+199.4
+ 20
+89.6
+ 10
+200.543
+ 20
+90.1715
+ 10
+200.543
+ 20
+89.0285
+  0
+HATCH
+  5
+61
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+199.40000000000001
+ 20
+89.599999999999994
+ 10
+200.54300000000001
+ 20
+90.171499999999995
+ 10
+200.54300000000001
+ 20
+89.028499999999994
+ 97
+        1
+330
+60
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+62
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+196.708
+ 20
+111.2
+ 10
+204.965208
+ 20
+111.2
+  0
+LWPOLYLINE
+  5
+63
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.908
+ 20
+91.7
+ 10
+204.965208
+ 20
+91.7
+  0
+LWPOLYLINE
+  5
+64
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+204.457208
+ 20
+110.6285
+ 10
+204.457208
+ 20
+105.23606
+  0
+LWPOLYLINE
+  5
+65
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+204.457208
+ 20
+97.66394
+ 10
+204.457208
+ 20
+92.2715
+  0
+LWPOLYLINE
+  5
+66
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+204.457208
+ 20
+111.2
+ 10
+205.028707
+ 20
+110.057
+ 10
+203.885708
+ 20
+110.057001
+  0
+HATCH
+  5
+67
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+204.45720800000001
+ 20
+111.2
+ 10
+205.028707
+ 20
+110.057
+ 10
+203.88570799999999
+ 20
+110.057001
+ 97
+        1
+330
+66
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+68
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+204.457208
+ 20
+91.7
+ 10
+203.885708
+ 20
+92.843
+ 10
+205.028708
+ 20
+92.843
+  0
+HATCH
+  5
+69
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+204.45720800000001
+ 20
+91.700000000000003
+ 10
+203.88570799999999
+ 20
+92.843000000000004
+ 10
+205.02870799999999
+ 20
+92.843000000000004
+ 97
+        1
+330
+68
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+6A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.908
+ 20
+153.2
+ 10
+203.817665
+ 20
+153.2
+  0
+LWPOLYLINE
+  5
+6B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+183.908
+ 20
+141.2
+ 10
+203.817665
+ 20
+141.2
+  0
+LWPOLYLINE
+  5
+6C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+203.309665
+ 20
+152.6285
+ 10
+203.309665
+ 20
+149.879255
+  0
+LWPOLYLINE
+  5
+6D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+203.309665
+ 20
+144.520745
+ 10
+203.309665
+ 20
+141.7715
+  0
+LWPOLYLINE
+  5
+6E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+203.309665
+ 20
+153.2
+ 10
+203.881164
+ 20
+152.057
+ 10
+202.738165
+ 20
+152.057001
+  0
+HATCH
+  5
+6F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+203.309665
+ 20
+153.19999999999999
+ 10
+203.88116400000001
+ 20
+152.05699999999999
+ 10
+202.73816500000001
+ 20
+152.05700100000001
+ 97
+        1
+330
+6E
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+70
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+203.309665
+ 20
+141.2
+ 10
+202.738165
+ 20
+142.343
+ 10
+203.881165
+ 20
+142.343
+  0
+HATCH
+  5
+71
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+203.309665
+ 20
+141.19999999999999
+ 10
+202.73816500000001
+ 20
+142.34299999999999
+ 10
+203.88116500000001
+ 20
+142.34299999999999
+ 97
+        1
+330
+70
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+72
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+183.4
+ 20
+141.708
+ 10
+183.4
+ 20
+156.850478
+  0
+LWPOLYLINE
+  5
+73
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+199.4
+ 20
+153.708
+ 10
+199.4
+ 20
+156.850478
+  0
+LWPOLYLINE
+  5
+74
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+183.9715
+ 20
+156.342478
+ 10
+188.720745
+ 20
+156.342478
+  0
+LWPOLYLINE
+  5
+75
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.2032
+ 10
+194.079256
+ 20
+156.342478
+ 10
+198.8285
+ 20
+156.342478
+  0
+LWPOLYLINE
+  5
+76
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+183.4
+ 20
+156.342478
+ 10
+184.543
+ 20
+156.913978
+ 10
+184.543
+ 20
+155.770978
+  0
+HATCH
+  5
+77
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+183.40000000000001
+ 20
+156.342478
+ 10
+184.54300000000001
+ 20
+156.91397799999999
+ 10
+184.54300000000001
+ 20
+155.77097800000001
+ 97
+        1
+330
+76
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+78
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        3
+ 70
+         1
+ 10
+199.4
+ 20
+156.342478
+ 10
+198.257
+ 20
+155.770979
+ 10
+198.257
+ 20
+156.913978
+  0
+HATCH
+  5
+79
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        2
+ 72
+         0
+ 73
+         1
+ 93
+        3
+ 10
+199.40000000000001
+ 20
+156.342478
+ 10
+198.25700000000001
+ 20
+155.77097900000001
+ 10
+198.25700000000001
+ 20
+156.91397799999999
+ 97
+        1
+330
+78
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+TEXT
+  5
+7B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+146.723896
+ 20
+155.741623
+ 30
+0.0
+ 40
+1.27
+  1
+2mm
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+148.521581
+ 21
+156.376623
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+7C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+151.657114
+ 20
+144.87209
+ 30
+0.0
+ 40
+1.27
+  1
+12mm
+ 50
+90.0
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+151.022114
+ 21
+147.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+7D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+174.00224
+ 20
+86.164999
+ 30
+0.0
+ 40
+1.27
+  1
+46mm
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+176.4
+ 21
+86.799999
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+7E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+207.234999
+ 20
+119.06799
+ 30
+0.0
+ 40
+1.27
+  1
+61.5mm
+ 50
+90.0
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+206.599999
+ 21
+122.45
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+7F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+158.681012
+ 20
+87.657884
+ 30
+0.0
+ 40
+1.27
+  1
+2mm
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+160.478697
+ 21
+88.292884
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+80
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+148.635
+ 20
+96.780734
+ 30
+0.0
+ 40
+1.27
+  1
+2mm
+ 50
+90.0
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+148.0
+ 21
+98.578419
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+81
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+187.362991
+ 20
+88.965
+ 30
+0.0
+ 40
+1.27
+  1
+3.2mm
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+190.214776
+ 21
+89.6
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+82
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+205.092208
+ 20
+98.06799
+ 30
+0.0
+ 40
+1.27
+  1
+19.5mm
+ 50
+90.0
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+204.457208
+ 21
+101.45
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+83
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+203.944664
+ 20
+144.87209
+ 30
+0.0
+ 40
+1.27
+  1
+12mm
+ 50
+90.0
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+203.309664
+ 21
+147.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+84
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbText
+ 10
+189.07209
+ 20
+155.707478
+ 30
+0.0
+ 40
+1.27
+  1
+16mm
+  7
+VERIBEST_GERBER_1
+ 72
+         1
+ 11
+191.4
+ 21
+156.342478
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+LWPOLYLINE
+  5
+85
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.45
+ 20
+124.2
+ 10
+158.45
+ 20
+127.0
+ 10
+159.75
+ 20
+127.0
+ 10
+159.75
+ 20
+124.2
+  0
+LWPOLYLINE
+  5
+86
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.45
+ 20
+121.1
+ 10
+158.45
+ 20
+123.9
+ 10
+159.75
+ 20
+123.9
+ 10
+159.75
+ 20
+121.1
+  0
+LWPOLYLINE
+  5
+87
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 10
+160.1
+ 20
+127.65
+ 10
+160.1
+ 20
+120.15
+  0
+LWPOLYLINE
+  5
+88
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 10
+164.1
+ 20
+127.65
+ 10
+164.1
+ 20
+120.15
+  0
+LWPOLYLINE
+  5
+89
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 10
+160.1
+ 20
+120.15
+ 42
+1.0
+ 10
+164.1
+ 20
+120.15
+  0
+LWPOLYLINE
+  5
+8A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 10
+164.1
+ 20
+127.65
+ 42
+1.0
+ 10
+160.1
+ 20
+127.65
+  0
+LWPOLYLINE
+  5
+8B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+188.75
+ 20
+138.85
+ 10
+188.75
+ 20
+141.75
+ 10
+190.05
+ 20
+141.75
+ 10
+190.05
+ 20
+138.85
+  0
+LWPOLYLINE
+  5
+8C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+187.15
+ 20
+139.55
+ 10
+187.15
+ 20
+140.75
+ 10
+187.95
+ 20
+140.75
+ 10
+187.95
+ 20
+139.55
+  0
+LWPOLYLINE
+  5
+8D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+139.55
+ 10
+187.15
+ 20
+139.55
+  0
+LWPOLYLINE
+  5
+8E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+139.65
+ 10
+187.15
+ 20
+139.65
+  0
+LWPOLYLINE
+  5
+8F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+139.75
+ 10
+187.15
+ 20
+139.75
+  0
+LWPOLYLINE
+  5
+90
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+139.85
+ 10
+187.15
+ 20
+139.85
+  0
+LWPOLYLINE
+  5
+91
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+139.95
+ 10
+187.15
+ 20
+139.95
+  0
+LWPOLYLINE
+  5
+92
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+187.95
+ 20
+140.05
+ 10
+187.15
+ 20
+140.05
+  0
+LWPOLYLINE
+  5
+93
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+185.85
+ 20
+135.05
+ 10
+185.85
+ 20
+137.95
+ 10
+187.15
+ 20
+137.95
+ 10
+187.15
+ 20
+135.05
+  0
+LWPOLYLINE
+  5
+94
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+187.45
+ 20
+135.05
+ 10
+187.45
+ 20
+137.95
+ 10
+188.75
+ 20
+137.95
+ 10
+188.75
+ 20
+135.05
+  0
+LWPOLYLINE
+  5
+95
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+170.95
+ 20
+99.75
+ 10
+170.95
+ 20
+101.05
+ 10
+173.85
+ 20
+101.05
+ 10
+173.85
+ 20
+99.75
+  0
+LWPOLYLINE
+  5
+96
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+192.93
+ 20
+127.03
+ 10
+192.93
+ 20
+129.57
+ 10
+198.01
+ 20
+129.57
+ 10
+198.01
+ 20
+127.03
+  0
+LWPOLYLINE
+  5
+97
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+186.94
+ 20
+113.26
+ 10
+186.94
+ 20
+126.46
+ 10
+200.94
+ 20
+126.46
+ 10
+200.94
+ 20
+113.26
+  0
+LWPOLYLINE
+  5
+98
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+159.75
+ 20
+100.6
+ 10
+159.75
+ 20
+103.4
+ 10
+161.05
+ 20
+103.4
+ 10
+161.05
+ 20
+100.6
+  0
+LWPOLYLINE
+  5
+99
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+173.25
+ 20
+104.55
+ 10
+173.25
+ 20
+107.45
+ 10
+174.55
+ 20
+107.45
+ 10
+174.55
+ 20
+104.55
+  0
+LWPOLYLINE
+  5
+9A
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+161.45
+ 20
+100.45
+ 10
+161.45
+ 20
+101.75
+ 10
+164.35
+ 20
+101.75
+ 10
+164.35
+ 20
+100.45
+  0
+LWPOLYLINE
+  5
+9B
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+161.45
+ 20
+101.85
+ 10
+161.45
+ 20
+103.15
+ 10
+164.35
+ 20
+103.15
+ 10
+164.35
+ 20
+101.85
+  0
+LWPOLYLINE
+  5
+9C
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.35
+ 20
+107.85
+ 10
+158.35
+ 20
+110.75
+ 10
+159.65
+ 20
+110.75
+ 10
+159.65
+ 20
+107.85
+  0
+LWPOLYLINE
+  5
+9D
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+159.85
+ 20
+107.85
+ 10
+159.85
+ 20
+110.75
+ 10
+161.15
+ 20
+110.75
+ 10
+161.15
+ 20
+107.85
+  0
+LWPOLYLINE
+  5
+9E
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.05
+ 20
+132.05
+ 10
+158.05
+ 20
+134.95
+ 10
+159.35
+ 20
+134.95
+ 10
+159.35
+ 20
+132.05
+  0
+LWPOLYLINE
+  5
+9F
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.65
+ 20
+135.75
+ 10
+158.65
+ 20
+138.65
+ 10
+159.95
+ 20
+138.65
+ 10
+159.95
+ 20
+135.75
+  0
+LWPOLYLINE
+  5
+A0
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+158.75
+ 20
+141.45
+ 10
+158.75
+ 20
+144.35
+ 10
+160.05
+ 20
+144.35
+ 10
+160.05
+ 20
+141.45
+  0
+LWPOLYLINE
+  5
+A1
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+160.13
+ 20
+135.73
+ 10
+160.13
+ 20
+140.81
+ 10
+162.67
+ 20
+140.81
+ 10
+162.67
+ 20
+135.73
+  0
+LWPOLYLINE
+  5
+A2
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+181.65
+ 20
+136.35
+ 10
+181.65
+ 20
+137.65
+ 10
+184.55
+ 20
+137.65
+ 10
+184.55
+ 20
+136.35
+  0
+LWPOLYLINE
+  5
+A3
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+162.75
+ 20
+132.6
+ 10
+162.75
+ 20
+133.9
+ 10
+165.55
+ 20
+133.9
+ 10
+165.55
+ 20
+132.6
+  0
+CIRCLE
+  5
+A4
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbCircle
+ 10
+161.8
+ 20
+132.4
+ 30
+0.0
+ 40
+2.0
+  0
+LWPOLYLINE
+  5
+A5
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+162.75
+ 20
+130.5
+ 10
+162.75
+ 20
+131.8
+ 10
+165.55
+ 20
+131.8
+ 10
+165.55
+ 20
+130.5
+  0
+LWPOLYLINE
+  5
+A6
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+153.5
+ 20
+97.7
+ 10
+153.5
+ 20
+137.7
+ 10
+157.5
+ 20
+137.7
+ 10
+157.5
+ 20
+97.7
+  0
+LWPOLYLINE
+  5
+A7
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+177.7
+ 20
+140.25
+ 10
+177.7
+ 20
+143.55
+ 10
+179.5
+ 20
+143.55
+ 10
+179.5
+ 20
+140.25
+  0
+LWPOLYLINE
+  5
+A8
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+161.85
+ 20
+141.9
+ 10
+161.85
+ 20
+143.7
+ 10
+165.15
+ 20
+143.7
+ 10
+165.15
+ 20
+141.9
+  0
+LWPOLYLINE
+  5
+A9
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        8
+ 70
+         1
+ 10
+199.95
+ 20
+131.45
+ 10
+198.95
+ 20
+131.45
+ 10
+198.95
+ 20
+129.85
+ 10
+190.95
+ 20
+129.85
+ 10
+190.95
+ 20
+140.75
+ 10
+198.95
+ 20
+140.75
+ 10
+198.95
+ 20
+139.2
+ 10
+199.95
+ 20
+139.2
+  0
+LWPOLYLINE
+  5
+AA
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+167.582
+ 20
+137.135
+ 10
+167.582
+ 20
+143.865
+ 10
+173.802
+ 20
+143.865
+ 10
+173.802
+ 20
+137.135
+  0
+LWPOLYLINE
+  5
+AB
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+162.8
+ 20
+138.0
+ 10
+162.8
+ 20
+139.4
+ 10
+165.8
+ 20
+139.4
+ 10
+165.8
+ 20
+138.0
+  0
+LWPOLYLINE
+  5
+AC
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.7
+ 20
+139.4
+ 10
+165.8
+ 20
+139.3
+  0
+LWPOLYLINE
+  5
+AD
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.6
+ 20
+139.4
+ 10
+165.8
+ 20
+139.2
+  0
+LWPOLYLINE
+  5
+AE
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.5
+ 20
+139.4
+ 10
+165.8
+ 20
+139.1
+  0
+LWPOLYLINE
+  5
+AF
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.4
+ 20
+139.4
+ 10
+165.8
+ 20
+139.0
+  0
+LWPOLYLINE
+  5
+B0
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.3
+ 20
+139.4
+ 10
+165.8
+ 20
+138.9
+  0
+LWPOLYLINE
+  5
+B1
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+165.2
+ 20
+139.4
+ 10
+165.8
+ 20
+138.8
+  0
+LWPOLYLINE
+  5
+B2
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+153.37
+ 20
+144.48
+ 10
+153.37
+ 20
+153.18
+ 10
+186.37
+ 20
+153.18
+ 10
+186.37
+ 20
+144.48
+  0
+LWPOLYLINE
+  5
+B3
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+166.44
+ 20
+144.48
+ 10
+166.44
+ 20
+145.06
+ 10
+172.94
+ 20
+145.06
+ 10
+172.94
+ 20
+144.48
+  0
+LWPOLYLINE
+  5
+B4
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+186.400004
+ 20
+142.0
+ 10
+186.400004
+ 20
+151.0
+ 10
+200.900004
+ 20
+151.0
+ 10
+200.900004
+ 20
+142.0
+  0
+LWPOLYLINE
+  5
+B5
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+175.55
+ 20
+93.2
+ 10
+175.55
+ 20
+109.2
+ 10
+200.95
+ 20
+109.2
+ 10
+200.95
+ 20
+93.2
+  0
+LWPOLYLINE
+  5
+B6
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+163.15
+ 20
+115.25
+ 10
+163.15
+ 20
+118.15
+ 10
+164.45
+ 20
+118.15
+ 10
+164.45
+ 20
+115.25
+  0
+LWPOLYLINE
+  5
+B7
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+166.15
+ 20
+114.65
+ 10
+166.15
+ 20
+117.55
+ 10
+167.45
+ 20
+117.55
+ 10
+167.45
+ 20
+114.65
+  0
+LWPOLYLINE
+  5
+B8
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+166.15
+ 20
+117.8
+ 10
+166.15
+ 20
+120.6
+ 10
+167.45
+ 20
+120.6
+ 10
+167.45
+ 20
+117.8
+  0
+LWPOLYLINE
+  5
+B9
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+164.75
+ 20
+117.8
+ 10
+164.75
+ 20
+120.6
+ 10
+166.05
+ 20
+120.6
+ 10
+166.05
+ 20
+117.8
+  0
+LWPOLYLINE
+  5
+BA
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+165.05
+ 20
+100.5
+ 10
+165.05
+ 20
+103.3
+ 10
+166.35
+ 20
+103.3
+ 10
+166.35
+ 20
+100.5
+  0
+LWPOLYLINE
+  5
+BB
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+168.05
+ 20
+100.45
+ 10
+168.05
+ 20
+103.35
+ 10
+169.35
+ 20
+103.35
+ 10
+169.35
+ 20
+100.45
+  0
+LWPOLYLINE
+  5
+BC
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+166.65
+ 20
+100.45
+ 10
+166.65
+ 20
+103.35
+ 10
+167.95
+ 20
+103.35
+ 10
+167.95
+ 20
+100.45
+  0
+LWPOLYLINE
+  5
+BD
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+161.5
+ 20
+103.75
+ 10
+161.5
+ 20
+105.05
+ 10
+164.3
+ 20
+105.05
+ 10
+164.3
+ 20
+103.75
+  0
+LWPOLYLINE
+  5
+BE
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+169.65
+ 20
+107.2
+ 10
+169.65
+ 20
+108.5
+ 10
+172.55
+ 20
+108.5
+ 10
+172.55
+ 20
+107.2
+  0
+LWPOLYLINE
+  5
+BF
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+169.85
+ 20
+105.6
+ 10
+169.85
+ 20
+106.9
+ 10
+172.65
+ 20
+106.9
+ 10
+172.65
+ 20
+105.6
+  0
+LWPOLYLINE
+  5
+C0
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+168.6
+ 20
+110.25
+ 10
+168.6
+ 20
+113.05
+ 10
+169.9
+ 20
+113.05
+ 10
+169.9
+ 20
+110.25
+  0
+LWPOLYLINE
+  5
+C1
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+169.9
+ 20
+102.65
+ 10
+169.9
+ 20
+103.95
+ 10
+172.8
+ 20
+103.95
+ 10
+172.8
+ 20
+102.65
+  0
+LWPOLYLINE
+  5
+C2
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+168.8
+ 20
+104.1
+ 10
+168.8
+ 20
+105.4
+ 10
+171.7
+ 20
+105.4
+ 10
+171.7
+ 20
+104.1
+  0
+LWPOLYLINE
+  5
+C3
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+164.65
+ 20
+105.95
+ 10
+164.65
+ 20
+109.95
+ 10
+168.65
+ 20
+109.95
+ 10
+168.65
+ 20
+105.95
+  0
+LWPOLYLINE
+  5
+C4
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.55
+ 20
+105.95
+ 10
+168.65
+ 20
+106.05
+  0
+LWPOLYLINE
+  5
+C5
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.45
+ 20
+105.95
+ 10
+168.65
+ 20
+106.15
+  0
+LWPOLYLINE
+  5
+C6
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.35
+ 20
+105.95
+ 10
+168.65
+ 20
+106.25
+  0
+LWPOLYLINE
+  5
+C7
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.25
+ 20
+105.95
+ 10
+168.65
+ 20
+106.35
+  0
+LWPOLYLINE
+  5
+C8
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.15
+ 20
+105.95
+ 10
+168.65
+ 20
+106.45
+  0
+LWPOLYLINE
+  5
+C9
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+168.05
+ 20
+105.95
+ 10
+168.65
+ 20
+106.55
+  0
+LWPOLYLINE
+  5
+CA
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+167.95
+ 20
+105.95
+ 10
+168.65
+ 20
+106.65
+  0
+LWPOLYLINE
+  5
+CB
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+167.85
+ 20
+105.95
+ 10
+168.65
+ 20
+106.75
+  0
+LWPOLYLINE
+  5
+CC
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+167.75
+ 20
+105.95
+ 10
+168.65
+ 20
+106.85
+  0
+LWPOLYLINE
+  5
+CD
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         0
+ 43
+0.1
+ 10
+167.65
+ 20
+105.95
+ 10
+168.65
+ 20
+106.95
+  0
+LWPOLYLINE
+  5
+CE
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+163.45
+ 20
+111.35
+ 10
+163.45
+ 20
+112.65
+ 10
+166.35
+ 20
+112.65
+ 10
+166.35
+ 20
+111.35
+  0
+LWPOLYLINE
+  5
+CF
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+165.95
+ 20
+125.8
+ 10
+165.95
+ 20
+128.6
+ 10
+167.25
+ 20
+128.6
+ 10
+167.25
+ 20
+125.8
+  0
+LWPOLYLINE
+  5
+D0
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+183.65
+ 20
+133.2
+ 10
+183.65
+ 20
+136.0
+ 10
+184.95
+ 20
+136.0
+ 10
+184.95
+ 20
+133.2
+  0
+LWPOLYLINE
+  5
+D1
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+185.25
+ 20
+130.9
+ 10
+185.25
+ 20
+133.7
+ 10
+186.55
+ 20
+133.7
+ 10
+186.55
+ 20
+130.9
+  0
+LWPOLYLINE
+  5
+D2
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+169.2
+ 20
+115.55
+ 10
+169.2
+ 20
+116.85
+ 10
+172.0
+ 20
+116.85
+ 10
+172.0
+ 20
+115.55
+  0
+LWPOLYLINE
+  5
+D3
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+166.25
+ 20
+130.9
+ 10
+166.25
+ 20
+133.7
+ 10
+167.55
+ 20
+133.7
+ 10
+167.55
+ 20
+130.9
+  0
+LWPOLYLINE
+  5
+D4
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+169.3
+ 20
+118.9
+ 10
+169.3
+ 20
+132.9
+ 10
+183.3
+ 20
+132.9
+ 10
+183.3
+ 20
+118.9
+  0
+LWPOLYLINE
+  5
+D5
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        2
+ 70
+         1
+ 43
+0.1
+ 10
+169.8
+ 20
+131.9
+ 42
+-1.0
+ 10
+170.8
+ 20
+131.9
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+D6
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+181.15
+ 20
+113.6
+ 10
+181.15
+ 20
+116.4
+ 10
+182.45
+ 20
+116.4
+ 10
+182.45
+ 20
+113.6
+  0
+LWPOLYLINE
+  5
+D7
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+182.85
+ 20
+114.3
+ 10
+182.85
+ 20
+117.1
+ 10
+184.15
+ 20
+117.1
+ 10
+184.15
+ 20
+114.3
+  0
+LWPOLYLINE
+  5
+D8
+100
+AcDbEntity
+  8
+ASSEMBLY_OUTLINES_TOP
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 43
+0.1
+ 10
+168.7
+ 20
+134.95
+ 10
+168.7
+ 20
+136.25
+ 10
+171.5
+ 20
+136.25
+ 10
+171.5
+ 20
+134.95
+  0
+TEXT
+  5
+DA
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+158.680525
+ 20
+126.3888
+ 30
+0.0
+ 40
+0.85
+  1
+C10
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+159.1
+ 21
+125.6
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+DB
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+158.680525
+ 20
+123.2055
+ 30
+0.0
+ 40
+0.85
+  1
+C11
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+159.1
+ 21
+122.5
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+DC
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+161.655775
+ 20
+122.256425
+ 30
+0.0
+ 40
+1.0
+  1
+ZQ2
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+161.162275
+ 21
+123.477425
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+DD
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+189.760427
+ 20
+139.820363
+ 30
+0.0
+ 40
+0.7
+  1
+R2
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+189.414977
+ 21
+140.333463
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+DE
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+187.843162
+ 20
+139.600938
+ 30
+0.0
+ 40
+0.5
+  1
+VD1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+187.596412
+ 21
+140.138188
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+DF
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+186.860427
+ 20
+136.020363
+ 30
+0.0
+ 40
+0.7
+  1
+R5
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+186.514977
+ 21
+136.533463
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E0
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+188.460427
+ 20
+136.020363
+ 30
+0.0
+ 40
+0.7
+  1
+R6
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+188.114977
+ 21
+136.533463
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E1
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.49985
+ 20
+94.52685
+ 30
+0.0
+ 40
+1.0
+  1
+X6
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         2
+ 11
+163.49985
+ 21
+96.08985
+ 31
+0.0
+100
+AcDbText
+ 73
+         1
+  0
+TEXT
+  5
+E2
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+171.76645
+ 20
+100.10455
+ 30
+0.0
+ 40
+0.7
+  1
+R21
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+172.45
+ 21
+100.45
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E3
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+195.9781
+ 20
+127.6496
+ 30
+0.0
+ 40
+1.0
+  1
+J2
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+195.4846
+ 21
+128.2846
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E4
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+194.652275
+ 20
+119.416425
+ 30
+0.0
+ 40
+1.0
+  1
+X4
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         2
+ 11
+194.652275
+ 21
+121.077425
+ 31
+0.0
+100
+AcDbText
+ 73
+         1
+  0
+TEXT
+  5
+E5
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+160.05455
+ 20
+102.7182
+ 30
+0.0
+ 40
+0.7
+  1
+C20
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+160.4
+ 21
+102.0
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E6
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+173.50455
+ 20
+106.7682
+ 30
+0.0
+ 40
+0.7
+  1
+R14
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+173.85
+ 21
+106.05
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E7
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+162.09785
+ 20
+100.70455
+ 30
+0.0
+ 40
+0.7
+  1
+R20
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+162.85
+ 21
+101.05
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E8
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+162.16645
+ 20
+102.10455
+ 30
+0.0
+ 40
+0.7
+  1
+R16
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+162.85
+ 21
+102.45
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+E9
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+158.70455
+ 20
+109.8653
+ 30
+0.0
+ 40
+0.7
+  1
+R11
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+159.05
+ 21
+109.25
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+EA
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+160.20455
+ 20
+109.9339
+ 30
+0.0
+ 40
+0.7
+  1
+R12
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+160.55
+ 21
+109.25
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+EB
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+159.160427
+ 20
+132.920363
+ 30
+0.0
+ 40
+0.7
+  1
+R7
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+158.814977
+ 21
+133.433463
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+EC
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+159.760427
+ 20
+136.620363
+ 30
+0.0
+ 40
+0.7
+  1
+R3
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+159.414977
+ 21
+137.133463
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+ED
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+159.848376
+ 20
+142.390169
+ 30
+0.0
+ 40
+0.85
+  1
+R1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+159.428901
+ 21
+142.929919
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+EE
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+160.9565
+ 20
+138.787
+ 30
+0.0
+ 40
+1.0
+  1
+J1
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+161.45
+ 21
+138.25
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+EF
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+182.5033
+ 20
+136.60455
+ 30
+0.0
+ 40
+0.7
+  1
+R4
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+183.05
+ 21
+136.95
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F0
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.5686
+ 20
+132.830525
+ 30
+0.0
+ 40
+0.85
+  1
+C5
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+164.15
+ 21
+133.25
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F1
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+161.212275
+ 20
+131.381425
+ 30
+0.0
+ 40
+1.0
+  1
+ZQ1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         2
+ 11
+161.212275
+ 21
+133.627425
+ 31
+0.0
+100
+AcDbText
+ 73
+         1
+  0
+TEXT
+  5
+F2
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.527375
+ 20
+130.730525
+ 30
+0.0
+ 40
+0.85
+  1
+C8
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+164.15
+ 21
+131.15
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F3
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+155.936325
+ 20
+111.294875
+ 30
+0.0
+ 40
+1.0
+  1
+X5
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+155.442825
+ 21
+112.076375
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F4
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+178.893162
+ 20
+141.546188
+ 30
+0.0
+ 40
+0.5
+  1
+C2
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+178.646412
+ 21
+141.888188
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F5
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.0019
+ 20
+142.380525
+ 30
+0.0
+ 40
+0.85
+  1
+C1
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+163.5
+ 21
+142.8
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F6
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+196.170852
+ 20
+134.295852
+ 30
+0.0
+ 40
+1.0
+  1
+X3
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+195.677352
+ 21
+135.077352
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F7
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+170.379487
+ 20
+138.852813
+ 30
+0.0
+ 40
+1.5
+  1
+DA1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+169.639237
+ 21
+140.464563
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F8
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.4796
+ 20
+138.35455
+ 30
+0.0
+ 40
+0.7
+  1
+VD2
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+164.3
+ 21
+138.7
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+F9
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+167.80735
+ 20
+148.06535
+ 30
+0.0
+ 40
+1.0
+  1
+X1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         2
+ 11
+167.80735
+ 21
+149.43235
+ 31
+0.0
+100
+AcDbText
+ 73
+         1
+  0
+TEXT
+  5
+FA
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+193.299854
+ 20
+145.97685
+ 30
+0.0
+ 40
+1.0
+  1
+X2
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         2
+ 11
+193.299854
+ 21
+147.53985
+ 31
+0.0
+100
+AcDbText
+ 73
+         1
+  0
+TEXT
+  5
+FB
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+186.886325
+ 20
+100.291375
+ 30
+0.0
+ 40
+1.0
+  1
+T1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+186.392825
+ 21
+100.926375
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+FC
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+163.40455
+ 20
+117.2974
+ 30
+0.0
+ 40
+0.7
+  1
+R8
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+163.75
+ 21
+116.75
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+FD
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+166.40455
+ 20
+116.6631
+ 30
+0.0
+ 40
+0.7
+  1
+R9
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+166.75
+ 21
+116.15
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+FE
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+166.45455
+ 20
+119.8496
+ 30
+0.0
+ 40
+0.7
+  1
+C13
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+166.8
+ 21
+119.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+FF
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+165.05455
+ 20
+119.8496
+ 30
+0.0
+ 40
+0.7
+  1
+C12
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+165.4
+ 21
+119.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+100
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+165.35455
+ 20
+102.5496
+ 30
+0.0
+ 40
+0.7
+  1
+C21
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+165.7
+ 21
+101.9
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+101
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+168.30455
+ 20
+102.6682
+ 30
+0.0
+ 40
+0.7
+  1
+R18
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+168.65
+ 21
+101.95
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+102
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+166.90455
+ 20
+102.6339
+ 30
+0.0
+ 40
+0.7
+  1
+R17
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+167.25
+ 21
+101.95
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+103
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+162.2504
+ 20
+104.05455
+ 30
+0.0
+ 40
+0.7
+  1
+C19
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+162.9
+ 21
+104.4
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+104
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+170.46645
+ 20
+107.55455
+ 30
+0.0
+ 40
+0.7
+  1
+R13
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+171.15
+ 21
+107.9
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+105
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+170.76175
+ 20
+106.00325
+ 30
+0.0
+ 40
+0.5
+  1
+C18
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+171.25
+ 21
+106.25
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+106
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+169.00325
+ 20
+112.114
+ 30
+0.0
+ 40
+0.5
+  1
+C17
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+169.25
+ 21
+111.65
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+107
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+170.71645
+ 20
+103.00455
+ 30
+0.0
+ 40
+0.7
+  1
+R19
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+171.4
+ 21
+103.35
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+108
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+169.61645
+ 20
+104.45455
+ 30
+0.0
+ 40
+0.7
+  1
+R15
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+170.3
+ 21
+104.8
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+109
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+165.600625
+ 20
+107.249325
+ 30
+0.0
+ 40
+1.0
+  1
+DD2
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+166.723625
+ 21
+107.742825
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10A
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+164.26645
+ 20
+111.70455
+ 30
+0.0
+ 40
+0.7
+  1
+R10
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+164.95
+ 21
+112.05
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10B
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+166.25455
+ 20
+127.6788
+ 30
+0.0
+ 40
+0.7
+  1
+C9
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+166.6
+ 21
+127.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10C
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+183.95455
+ 20
+135.1131
+ 30
+0.0
+ 40
+0.7
+  1
+C4
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+184.3
+ 21
+134.6
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10D
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+185.55455
+ 20
+132.7788
+ 30
+0.0
+ 40
+0.7
+  1
+C7
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+185.9
+ 21
+132.3
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10E
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+169.91645
+ 20
+115.85455
+ 30
+0.0
+ 40
+0.7
+  1
+C14
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+170.6
+ 21
+116.2
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+10F
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+166.55455
+ 20
+132.7788
+ 30
+0.0
+ 40
+0.7
+  1
+C6
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+166.9
+ 21
+132.3
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+110
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+176.5281
+ 20
+124.9086
+ 30
+0.0
+ 40
+1.0
+  1
+DD1
+ 50
+90.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+176.0346
+ 21
+125.9346
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+111
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+181.45455
+ 20
+115.6496
+ 30
+0.0
+ 40
+0.7
+  1
+C15
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+181.8
+ 21
+115.0
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+112
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+183.15455
+ 20
+116.3496
+ 30
+0.0
+ 40
+0.7
+  1
+C16
+ 50
+270.0
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+183.5
+ 21
+115.7
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+113
+100
+AcDbEntity
+  8
+ASSEMBLY_REF_DES_TOP
+100
+AcDbText
+ 10
+169.6212
+ 20
+135.25455
+ 30
+0.0
+ 40
+0.7
+  1
+C3
+  7
+GOST_TYPE_B
+ 72
+         1
+ 11
+170.1
+ 21
+135.6
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+LWPOLYLINE
+  5
+114
+100
+AcDbEntity
+  8
+BOARD_OUTLINE
+100
+AcDbPolyline
+ 90
+        4
+ 70
+         1
+ 10
+153.4
+ 20
+91.7
+ 10
+153.4
+ 20
+153.2
+ 10
+199.4
+ 20
+153.2
+ 10
+199.4
+ 20
+91.7
+  0
+CIRCLE
+  5
+115
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+155.4
+ 20
+93.7
+ 30
+0.0
+ 40
+1.5
+  0
+HATCH
+  5
+116
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+155.40000000000001
+ 20
+93.700000000000003
+ 40
+1.5
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+115
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+117
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+155.4
+ 20
+141.2
+ 30
+0.0
+ 40
+1.5
+  0
+HATCH
+  5
+118
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+155.40000000000001
+ 20
+141.19999999999999
+ 40
+1.5
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+117
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+119
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+196.2
+ 20
+111.2
+ 30
+0.0
+ 40
+1.5
+  0
+HATCH
+  5
+11A
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+196.19999999999999
+ 20
+111.2
+ 40
+1.5
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+119
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+11B
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+183.4
+ 20
+141.2
+ 30
+0.0
+ 40
+1.5
+  0
+HATCH
+  5
+11C
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+183.40000000000001
+ 20
+141.19999999999999
+ 40
+1.5
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+11B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+11D
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+190.15
+ 20
+95.49
+ 30
+0.0
+ 40
+1.625
+  0
+HATCH
+  5
+11E
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+190.15000000000001
+ 20
+95.489999999999995
+ 40
+1.625
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+11D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+11F
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+190.15
+ 20
+106.91
+ 30
+0.0
+ 40
+1.625
+  0
+HATCH
+  5
+120
+100
+AcDbEntity
+  8
+MOUNTING_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+190.15000000000001
+ 20
+106.91
+ 40
+1.625
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+11F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+121
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+162.1
+ 20
+126.34
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+122
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+162.09999999999999
+ 20
+126.34
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+121
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+123
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+162.1
+ 20
+121.46
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+124
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+162.09999999999999
+ 20
+121.45999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+123
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+125
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+126
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+125
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+127
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+128
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+127
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+129
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+163.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+12A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+163.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+129
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+12B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+165.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+12C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+165.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+12B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+12D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+167.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+12E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+167.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+12D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+12F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+169.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+130
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+169.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+12F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+131
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+171.199339
+ 20
+96.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+132
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+171.19933900000001
+ 20
+96.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+131
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+133
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+163.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+134
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+163.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+133
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+135
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+165.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+136
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+165.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+135
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+137
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+167.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+138
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+167.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+137
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+139
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+169.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+13A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+169.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+139
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+13B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+171.199339
+ 20
+94.799974
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+13C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+171.19933900000001
+ 20
+94.799974000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+13B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+13D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+194.2
+ 20
+128.3
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+13E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+194.19999999999999
+ 20
+128.30000000000001
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+13D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+13F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+196.74
+ 20
+128.3
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+140
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+196.74000000000001
+ 20
+128.30000000000001
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+13F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+141
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.94
+ 20
+118.86
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+142
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.94
+ 20
+118.86
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+141
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+143
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.94
+ 20
+120.86
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+144
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.94
+ 20
+120.86
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+143
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+145
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.94
+ 20
+116.36
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+146
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.94
+ 20
+116.36
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+145
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+147
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.94
+ 20
+123.36
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+148
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.94
+ 20
+123.36
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+147
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+149
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+190.66
+ 20
+113.26
+ 30
+0.0
+ 40
+1.25
+  0
+HATCH
+  5
+14A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+190.66
+ 20
+113.26000000000001
+ 40
+1.25
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+149
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+14B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+190.66
+ 20
+126.46
+ 30
+0.0
+ 40
+1.25
+  0
+HATCH
+  5
+14C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+190.66
+ 20
+126.45999999999999
+ 40
+1.25
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+14B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+14D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.4
+ 20
+137.0
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+14E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.40000000000001
+ 20
+137.0
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+14D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+14F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.4
+ 20
+139.54
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+150
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.40000000000001
+ 20
+139.53999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+14F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+151
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.8
+ 20
+133.67
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+152
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.80000000000001
+ 20
+133.66999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+151
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+153
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+161.8
+ 20
+131.129998
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+154
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+161.80000000000001
+ 20
+131.129998
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+153
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+155
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+98.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+156
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+98.700000000000003
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+155
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+157
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+98.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+158
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+98.700000000000003
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+157
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+159
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+100.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+15A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+100.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+159
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+15B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+100.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+15C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+100.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+15B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+15D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+102.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+15E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+102.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+15D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+15F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+102.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+160
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+102.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+15F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+161
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+104.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+162
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+104.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+161
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+163
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+104.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+164
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+104.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+163
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+165
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+106.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+166
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+106.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+165
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+167
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+106.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+168
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+106.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+167
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+169
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+108.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+16A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+108.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+169
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+16B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+108.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+16C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+108.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+16B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+16D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+110.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+16E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+110.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+16D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+16F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+110.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+170
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+110.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+16F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+171
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+112.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+172
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+112.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+171
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+173
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+112.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+174
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+112.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+173
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+175
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+114.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+176
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+114.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+175
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+177
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+114.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+178
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+114.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+177
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+179
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+116.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+17A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+116.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+179
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+17B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+116.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+17C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+116.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+17B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+17D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+118.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+17E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+118.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+17D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+17F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+118.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+180
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+118.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+17F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+181
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+120.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+182
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+120.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+181
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+183
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+120.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+184
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+120.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+183
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+185
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+122.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+186
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+122.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+185
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+187
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+122.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+188
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+122.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+187
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+189
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+124.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+18A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+124.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+189
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+18B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+124.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+18C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+124.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+18B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+18D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+126.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+18E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+126.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+18D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+18F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+126.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+190
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+126.7
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+18F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+191
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+128.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+192
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+128.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+191
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+193
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+128.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+194
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+128.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+193
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+195
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+130.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+196
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+130.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+195
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+197
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+130.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+198
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+130.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+197
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+199
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+132.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+19A
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+132.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+199
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+19B
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+132.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+19C
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+132.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+19B
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+19D
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+134.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+19E
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+134.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+19D
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+19F
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+134.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+1A0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+134.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+19F
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1A1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+156.5
+ 20
+136.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+1A2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+156.5
+ 20
+136.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1A1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1A3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+154.5
+ 20
+136.7
+ 30
+0.0
+ 40
+0.4
+  0
+HATCH
+  5
+1A4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+154.5
+ 20
+136.69999999999999
+ 40
+0.4
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1A3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1A5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+194.7
+ 20
+137.5
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1A6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+194.69999999999999
+ 20
+137.5
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1A5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1A7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+194.7
+ 20
+133.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1A8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+194.69999999999999
+ 20
+133.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1A7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1A9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+158.44
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1AA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+158.44
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1A9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1AB
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+158.44
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1AC
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+158.44
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1AB
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1AD
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+160.98
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1AE
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+160.97999999999999
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1AD
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1AF
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+160.98
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1B0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+160.97999999999999
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1AF
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1B1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+163.52
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1B2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+163.52000000000001
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1B1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1B3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+163.52
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1B4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+163.52000000000001
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1B3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1B5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+166.06
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1B6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+166.06
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1B5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1B7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+166.06
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1B8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+166.06
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1B7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1B9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+168.6
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1BA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+168.59999999999999
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1B9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1BB
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+168.6
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1BC
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+168.59999999999999
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1BB
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1BD
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+171.14
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1BE
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+171.13999999999999
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1BD
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1BF
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+171.14
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1C0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+171.13999999999999
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1BF
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1C1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+173.68
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1C2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+173.68000000000001
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1C1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1C3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+173.68
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1C4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+173.68000000000001
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1C3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1C5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.22
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1C6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.22
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1C5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1C7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.22
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1C8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.22
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1C7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1C9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+178.76
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1CA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+178.75999999999999
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1C9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1CB
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+178.76
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1CC
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+178.75999999999999
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1CB
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1CD
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.3
+ 20
+147.56
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1CE
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.30000000000001
+ 20
+147.56
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1CD
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1CF
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.3
+ 20
+150.1
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1D0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.30000000000001
+ 20
+150.09999999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1CF
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1D1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.000002
+ 20
+146.3
+ 30
+0.0
+ 40
+1.4
+  0
+HATCH
+  5
+1D2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.00000199999999
+ 20
+146.30000000000001
+ 40
+1.3999999999999999
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1D1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1D3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+193.200002
+ 20
+146.3
+ 30
+0.0
+ 40
+1.4
+  0
+HATCH
+  5
+1D4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+193.20000200000001
+ 20
+146.30000000000001
+ 40
+1.3999999999999999
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1D3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1D5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+190.200004
+ 20
+151.0
+ 30
+0.0
+ 40
+1.4
+  0
+HATCH
+  5
+1D6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+190.20000400000001
+ 20
+151.0
+ 40
+1.3999999999999999
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1D5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1D7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+183.8
+ 20
+96.755
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1D8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+183.80000000000001
+ 20
+96.754999999999995
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1D7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1D9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+183.8
+ 20
+99.295
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1DA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+183.80000000000001
+ 20
+99.295000000000002
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1D9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1DB
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+183.8
+ 20
+101.835
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1DC
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+183.80000000000001
+ 20
+101.83499999999999
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1DB
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1DD
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.26
+ 20
+98.025
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1DE
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.25999999999999
+ 20
+98.025000000000006
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1DD
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1DF
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.26
+ 20
+100.565
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1E0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.25999999999999
+ 20
+100.565
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1DF
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1E1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.26
+ 20
+103.105
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1E2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.25999999999999
+ 20
+103.105
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1E1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1E3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+183.8
+ 20
+104.375
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1E4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+183.80000000000001
+ 20
+104.375
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1E3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1E5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+181.26
+ 20
+105.645
+ 30
+0.0
+ 40
+0.45
+  0
+HATCH
+  5
+1E6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+181.25999999999999
+ 20
+105.645
+ 40
+0.45
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1E5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1E7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+195.23
+ 20
+94.87
+ 30
+0.0
+ 40
+0.6
+  0
+HATCH
+  5
+1E8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+195.22999999999999
+ 20
+94.870000000000005
+ 40
+0.6
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1E7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1E9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+193.53
+ 20
+97.41
+ 30
+0.0
+ 40
+0.6
+  0
+HATCH
+  5
+1EA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+193.53
+ 20
+97.409999999999997
+ 40
+0.6
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1E9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1EB
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+195.23
+ 20
+104.99
+ 30
+0.0
+ 40
+0.6
+  0
+HATCH
+  5
+1EC
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+195.22999999999999
+ 20
+104.98999999999999
+ 40
+0.6
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1EB
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1ED
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+193.53
+ 20
+107.53
+ 30
+0.0
+ 40
+0.6
+  0
+HATCH
+  5
+1EE
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+193.53
+ 20
+107.53
+ 40
+0.6
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1ED
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1EF
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.43
+ 20
+95.74
+ 30
+0.0
+ 40
+0.75
+  0
+HATCH
+  5
+1F0
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.43000000000001
+ 20
+95.739999999999995
+ 40
+0.75
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1EF
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1F1
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.43
+ 20
+98.28
+ 30
+0.0
+ 40
+0.75
+  0
+HATCH
+  5
+1F2
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.43000000000001
+ 20
+98.280000000000001
+ 40
+0.75
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1F1
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1F3
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.43
+ 20
+104.12
+ 30
+0.0
+ 40
+0.75
+  0
+HATCH
+  5
+1F4
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.43000000000001
+ 20
+104.12
+ 40
+0.75
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1F3
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1F5
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+176.43
+ 20
+106.66
+ 30
+0.0
+ 40
+0.75
+  0
+HATCH
+  5
+1F6
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+176.43000000000001
+ 20
+106.66
+ 40
+0.75
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1F5
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1F7
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.1
+ 20
+93.33
+ 30
+0.0
+ 40
+0.95
+  0
+HATCH
+  5
+1F8
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.09999999999999
+ 20
+93.329999999999998
+ 40
+0.95
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1F7
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+CIRCLE
+  5
+1F9
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbCircle
+ 10
+187.1
+ 20
+109.07
+ 30
+0.0
+ 40
+0.95
+  0
+HATCH
+  5
+1FA
+100
+AcDbEntity
+  8
+PART_HOLES_LAYER_TOP
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+         1
+ 71
+         1
+ 91
+        1
+ 92
+        1
+ 93
+        1
+ 72
+         2
+ 10
+187.09999999999999
+ 20
+109.06999999999999
+ 40
+0.95
+ 50
+0.0
+ 51
+360.0
+ 73
+         1
+ 97
+        1
+330
+1F9
+ 75
+         0
+ 76
+         1
+ 98
+        1
+ 10
+0.0
+ 20
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+19
+100
+AcDbDictionary
+  3
+ACAD_GROUP
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+1B
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+19
+102
+}
+100
+AcDbDictionary
+  0
+DICTIONARY
+  5
+1B
+102
+{ACAD_REACTORS
+330
+19
+102
+}
+100
+AcDbDictionary
+  3
+STANDARD
+350
+1C
+  0
+MLINESTYLE
+  5
+1C
+102
+{ACAD_REACTORS
+330
+1B
+102
+}
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+         0
+  3
+
+ 62
+         0
+ 51
+90.0
+ 52
+90.0
+ 71
+         2
+ 49
+0.5
+ 62
+       256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+       256
+  6
+BYLAYER
+  0
+DICTIONARY
+  5
+22
+102
+{ACAD_REACTORS
+330
+19
+102
+}
+100
+AcDbDictionary
+  0
+ENDSEC
+  0
+EOF
